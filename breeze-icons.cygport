@@ -1,0 +1,14 @@
+inherit kf5
+
+NAME="breeze-icons"
+VERSION=5.27.0
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE Breeze icon theme"
+DESCRIPTION="Base runtime components for the K Desktop Environment."
+
+REQUIRES="hicolor-icon-theme"
+
+ARCH=noarch
+
+RESTRICT="diff"
